@@ -21,3 +21,23 @@ http://srvuhd.top:80/FAMILIA/12345/40943
 http://srvuhd.top:80/FAMILIA/12345/40944
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 10
 http://srvuhd.top:80/FAMILIA/12345/40945
+#EXTINF:-1,CINE DISNEY HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31306
+#EXTINF:-1,CINE FAROESTE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31307
+#EXTINF:-1,CINE LIGA DA JUSTIÇA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31308
+#EXTINF:-1,CINE MARVEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31309
+#EXTINF:-1,CINE TRAPALHÕES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31326
+#EXTINF:-1,CLASSIC FILMES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31327
+#EXTINF:-1,GOSPEL MOVIE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31328
+#EXTINF:-1,NOVA CINEMA
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31329
+#EXTINF:-1,TVSÉRIES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31330
+#EXTINF:-1,VINTAGE MOVIES
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31331
