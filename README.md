@@ -117,38 +117,23 @@ http://conexaoonline.life:80/162466827635269/169924/110753
 http://conexaoonline.life:80/162466827635269/169924/110754
 #EXTINF:-1,CINE 19
 http://conexaoonline.life:80/162466827635269/169924/110755
-#EXTINF:-1,PLUTO TV FILMES AÇÃO
-http://conexaoonline.life:80/162466827635269/169924/184270
-#EXTINF:-1,PLUTO TV FILMES SUSPENSE
-http://conexaoonline.life:80/162466827635269/169924/184271
-#EXTINF:-1,PLUTO TV CINE SUCESSOS
-http://conexaoonline.life:80/162466827635269/169924/184272
-#EXTINF:-1,PLUTO TV CINE COMÉDIA
-http://conexaoonline.life:80/162466827635269/169924/184273
-#EXTINF:-1,PLUTO TV CINE DRAMA
-http://conexaoonline.life:80/162466827635269/169924/184274
-#EXTINF:-1,PLUTO TV CINE TERROR
-http://conexaoonline.life:80/162466827635269/169924/184275
-#EXTINF:-1,PLUTO TV CINE FAMÍLIA
-http://conexaoonline.life:80/162466827635269/169924/184276
-#EXTINF:-1,PLUTO TV FILMES NACIONAIS
-http://conexaoonline.life:80/162466827635269/169924/184277
-#EXTINF:-1,PLUTO TV SÉRIES
-http://conexaoonline.life:80/162466827635269/169924/184278
-#EXTINF:-1,PLUTO TV ANIME
-http://conexaoonline.life:80/162466827635269/169924/184279
-#EXTINF:-1,PLUTO TV RETRÔ
-http://conexaoonline.life:80/162466827635269/169924/184280
-#EXTINF:-1,PLUTO TV NATUREZA
-http://conexaoonline.life:80/162466827635269/169924/184281
-#EXTINF:-1,PLUTO TV INVESTIGAÇÃO
-http://conexaoonline.life:80/162466827635269/169924/184282
-#EXTINF:-1,PLUTO TV VIDA REAL
-http://conexaoonline.life:80/162466827635269/169924/184283
-#EXTINF:-1,PLUTO TV FASHIONBOX
-http://conexaoonline.life:80/162466827635269/169924/184284
-#EXTINF:-1,PLUTO TV JUNIOR
-http://conexaoonline.life:80/162466827635269/169924/184285
-#EXTINF:-1,PLUTO TV KIDS
-http://conexaoonline.life:80/162466827635269/169924/184286
-
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="CANAIS | SESSÃO CINEMA",CINE SKY 05
+http://51.222.46.117:80/Fernando12345/Fernando12345/771234
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="CANAIS | SESSÃO CINEMA",CINE SKY 06
+http://51.222.46.117:80/Fernando12345/Fernando12345/771235
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="CANAIS | SESSÃO CINEMA",CINE SKY 07
+http://51.222.46.117:80/Fernando12345/Fernando12345/771236
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="CANAIS | SESSÃO CINEMA",CINE SKY 08
+http://51.222.46.117:80/Fernando12345/Fernando12345/771237
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="CANAIS | SESSÃO CINEMA",CINE SKY 09
+http://51.222.46.117:80/Fernando12345/Fernando12345/771238
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="CANAIS | SESSÃO CINEMA",CINE SKY 10
+http://51.222.46.117:80/Fernando12345/Fernando12345/771239
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="CANAIS | SESSÃO CINEMA",CINE SKY 01
+http://51.222.46.117:80/Fernando12345/Fernando12345/771240
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="CANAIS | SESSÃO CINEMA",CINE SKY 02
+http://51.222.46.117:80/Fernando12345/Fernando12345/771241
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="CANAIS | SESSÃO CINEMA",CINE SKY 03
+http://51.222.46.117:80/Fernando12345/Fernando12345/771242
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="CANAIS | SESSÃO CINEMA",CINE SKY 04
+http://51.222.46.117:80/Fernando12345/Fernando12345/771243
