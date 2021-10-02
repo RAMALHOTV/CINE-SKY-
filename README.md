@@ -29,3 +29,19 @@ http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/35484
 http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/35485
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 15 4K" tvg-logo="" group-title="CANAIS: CINE SKY",Cine Sky 15 4K
 http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/35486
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 1" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 1
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31316
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 2" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 2
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31317
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 3" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 3
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31318
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 4" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 4
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31319
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 5" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 5
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31320
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 6" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 6
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31321
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 7" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 7
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31322
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 8" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 8
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31324
