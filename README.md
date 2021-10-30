@@ -28,7 +28,6 @@ http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/35484
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 14 4K" tvg-logo="" group-title="CANAIS: CINE SKY",Cine Sky 14 4K
 http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/35485
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 15 4K" tvg-logo="" group-title="CANAIS: CINE SKY",Cine Sky 15 4K
-http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/35486
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA 1" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 1
 http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31316
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA 2" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS: FILMES ESPECIAIS",CINEMA 2
